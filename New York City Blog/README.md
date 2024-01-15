@@ -1,0 +1,5 @@
+SUBJECT(EN):
+Upon delving into the intricacies of New York City, you're fueled with an insatiable passion to craft a blog that immerses your audience in the vibrant tapestry of the city that never sleeps. It's high time to fashion a blog that exquisitely captures the sheer magnificence of the Big Apple. You're ready to dazzle and captivate – let the adventure begin! Let's create a HTML blog to solve that!
+
+SUBJECT(PT-PT):
+Ao explorar as complexidades da cidade de Nova Iorque, és impulsionado por uma paixão insaciável para criar um blog que envolva a tua audiência na vibrante tapeçaria da cidade que nunca dorme. É altura de desenvolver um blog que capte de forma requintada a pura magnificência da Big Apple. Estás pronto para deslumbrar e cativar - que a aventura comece! Vamos criar um blog em HTML para resolver isso!
