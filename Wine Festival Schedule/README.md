@@ -1,0 +1,5 @@
+SUBJECT(EN):
+The esteemed Aguillar Family is preparing to host their much-anticipated annual wine festival, and they cordially request your expertise in crafting a sophisticated web page to showcase the splendid event schedule. Harness your proficiency in HTML to elegantly present a table for the esteemed attendees, ensuring a seamless and delightful experience as they navigate through the festivities. Your contribution will undoubtedly add a touch of refinement to this grand occasion.
+
+SUBJECT(PT-PT):
+A prestigiada Família Aguillar está a organizar o seu aguardado festival anual de vinho e cordialmente pede a sua perícia para criar uma página web sofisticada que apresente o esplêndido programa do evento. Utilize o seu conhecimento em HTML para apresentar de forma elegante uma tabela para os estimados participantes, garantindo uma experiência fluida e encantadora enquanto exploram as festividades. A sua contribuição, sem dúvida, acrescentará um toque de requinte a esta grandiosa ocasião.
